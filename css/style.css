@@ -1,0 +1,19 @@
+button {
+    background-color: rgb(0, 0, 255);
+    color:white;
+    margin:auto;
+    border-radius:5px;
+    padding:5px;
+}
+
+h4 {
+    font-size:30px;
+    text-align:center;
+    line-height:px;
+    text-shadow:8px 4px 8px blue
+}
+
+img {
+    width:400px;
+    height: 250px;
+}

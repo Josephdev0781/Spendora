@@ -1,0 +1,14 @@
+div {
+    margin:auto;
+    background-color:aquamarine;
+    border:solid 0.5px;
+    padding:5px;
+}
+button {
+    background-color:blue;
+    color:white;
+    height:30px;
+    width:70px;
+    font-size:15px;
+    border-radius:5px;
+}
